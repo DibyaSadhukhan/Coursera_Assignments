@@ -1,0 +1,4 @@
+# This code inputs a name form the user and greets him/her
+
+name = input("Enter your name")
+print("Hello",name)
